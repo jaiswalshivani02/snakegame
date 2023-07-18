@@ -10,7 +10,7 @@ This is a classic Snake Game implemented in Java using the Swing library. The ga
 - Increasing difficulty as the snake grows longer.
 - Score tracking to keep track of the player's progress.
 - Game over screen with the option to restart the game.
-- Sound effects for eating food and colliding with obstacles.
+  
 
 ## Requirements
 
@@ -38,6 +38,6 @@ You can modify certain aspects of the game by editing the `Constants.java` file.
 - `INITIAL_SNAKE_LENGTH`: Set the initial length of the snake.
 - `SNAKE_SPEED`: Control the speed of the snake.
 - `SNAKE_COLOR`, `FOOD_COLOR`, `BACKGROUND_COLOR`: Change the colors used in the game.
-- `SOUND_ENABLED`: Enable or disable sound effects.
+  
 
      Enjoy playing the Snake Game!
